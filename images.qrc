@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cancel.png</file>
+        <file>images/exit.png</file>
+        <file>images/reboot.png</file>
+        <file>images/shutdown.png</file>
+    </qresource>
+</RCC>
